@@ -1,0 +1,30 @@
+{
+  "list": [
+    {
+      "name": "vk",
+      "logpass": "6GNUUq+VojepyuzVsYHErzwvo83jBOG4CTI9TBX+irn03lr2TTdg2iUrPRagIQTS"
+    },
+    {
+      "name": "i_love_tanki",
+      "logpass": "6GNUUq+VojepyuzVsYHEr/3f4JOugfKzQxKkNATke6DtupjvZndHqqqB7a/NRDMJ"
+    },
+    {
+      "name": "WOT",
+      "logpass": "6GNUUq+VojepyuzVsYHEr541qNP7In43ELZa1Q0Q65VEyccQcC6bXrAOeESzkmEr"
+    }
+  ],
+  "hash": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3"
+}
+
+{
+  "login": "user1",
+  "pass": "password"
+}
+{
+  "login": "user2",
+  "pass": "password"
+}
+{
+  "login": "user3",
+  "pass": "password"
+}
