@@ -1,0 +1,2 @@
+^C:\USERS\TIMKA\SOURCE\REPOS\LAB3\LAB3_ENCLAVE\LAB3_ENCLAVE.EDL
+"C:\Users\timka\source\repos\Lab3\packages\Intel.SGX.SDK.2.18.100.2\build\native\\bin\win32\Release\sgx_edger8r.exe" --untrusted ".\..\Lab3_Enclave\Lab3_Enclave.edl" --search-path ".\..\Lab3_Enclave;C:\Users\timka\source\repos\Lab3\packages\Intel.SGX.SDK.2.18.100.2\build\native\\include"

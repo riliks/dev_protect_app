@@ -1,0 +1,6 @@
+﻿  Lab3.cpp
+C:\Users\timka\source\repos\Lab3\Lab3\Lab3.cpp(22,37): warning C4474: "printf" : для строки формата передано слишком много аргументов
+C:\Users\timka\source\repos\Lab3\Lab3\Lab3.cpp(22,37): message : заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+C:\Users\timka\source\repos\Lab3\Lab3\Lab3.cpp(24,37): warning C4474: "printf" : для строки формата передано слишком много аргументов
+C:\Users\timka\source\repos\Lab3\Lab3\Lab3.cpp(24,37): message : заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+  Lab3.vcxproj -> C:\Users\timka\source\repos\Lab3\x64\Simulation\Lab3.exe

@@ -1,0 +1,2 @@
+^C:\USERS\TIMKA\SOURCE\REPOS\LAB3\LAB3_ENCLAVE\LAB3_ENCLAVE.EDL
+"\bin\win32\Release\sgx_edger8r.exe" --untrusted ".\..\Lab3_Enclave\Lab3_Enclave.edl" --search-path ".\..\Lab3_Enclave;\include"
